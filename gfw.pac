@@ -10766,6 +10766,7 @@ var cnips = [
 ];
 
 var directDomains = {
+  "nas.bitio.top": 1,
   "10010.com": 1,
   "115.com": 1,
   "123u.com": 1,
